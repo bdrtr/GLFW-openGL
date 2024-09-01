@@ -1,6 +1,13 @@
-# GLFW
+# 3D Model Viewer
 
-A 3D model created with GLFW
+This project demonstrates a 3D model created with GLFW.
 
-! [resim](./public/2024-09-01 19-39-10.gif)
+## Demo
 
+![resim](./public/2024-09-01%2019-39-10.gif)
+
+## Features
+
+- Real-time 3D rendering
+- Interactive controls
+- Texture mapping
